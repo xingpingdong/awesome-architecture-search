@@ -74,6 +74,8 @@ Hyper-parameter optimization has always been a popular field in the Machine Lear
   - Ariel Gordon, Elad Eban, Bo Chen, Ofir Nachum, Tien-Ju Yang, Edward Choi. *CVPR'18*
 
 ## Hyper-Parameter Search
+- Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)
+  - Xingping Dong, Jianbing Shen, Wenguan Wang, Yu Liu, Ling Shao, Fatih Porikli. *CVPR'18*
 - Speeding up Automatic Hyperparameter Optimization of Deep Neural Networksby Extrapolation of Learning Curves [[pdf]](http://ml.informatik.uni-freiburg.de/papers/15-IJCAI-Extrapolation_of_Learning_Curves.pdf) [[code]](https://github.com/automl/pylearningcurvepredictor)
   - Tobias Domhan, Jost Tobias Springenberg, Frank Hutter. *IJCAI'15*
 - Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization [[pdf]](https://arxiv.org/abs/1603.06560)
